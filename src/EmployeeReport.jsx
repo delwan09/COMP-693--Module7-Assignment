@@ -11,10 +11,5 @@ export default function EmployeeReport() {
                 </Card.Text>
             </Card.Body>
         </Card>
-
-
-
-
-
-    )
+    );
 }
